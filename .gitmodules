@@ -1,0 +1,3 @@
+[submodule "internal/modules/golang/perf"]
+	path = internal/modules/golang/perf
+	url = git@github.com:golang/perf.git
